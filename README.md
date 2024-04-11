@@ -1,12 +1,8 @@
 # Code Template For Larger Flask Apps
 
-***
-
 Template repo for launching larger flask applications. 
 
 # How To Use
-
-***
 
 ```
 # Clone this repository
@@ -26,8 +22,6 @@ $ flask run --debug
 ```
 
 # Initializing a Database
-
-***
 
 ``` 
 # Create the database
