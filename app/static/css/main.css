@@ -15,12 +15,6 @@ h2 {
     flex-wrap: wrap;
 }
 
-.footer {
-    color: #d64161;
-    font-size: 3em;
-    text-decoration: none;
-}
-
 .post {
     flex: 20%;
     padding: 10px;
